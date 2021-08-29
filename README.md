@@ -1,5 +1,6 @@
 # MusicX
 # Project: Dummy Music Streaming Website using HTML,CSS.
+## https://music-x-project.netlify.app/
 Use master branch to view the code.
 
 The website looks like this : 
